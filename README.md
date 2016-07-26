@@ -85,6 +85,6 @@ write.table(Mean_for_each_activity, "tidy.txt", row.names = FALSE, quote = FALSE
 ---
 title: "README.md"
 author: "Hyun-Joo Kim"
-date: "July 18, 2016"
+date: "July 26, 2016"
 output: html_document
 ---
